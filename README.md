@@ -6,7 +6,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08080d,100:D76742&height=200&section=header&text=VISUARTE%20STUDIO&fontSize=46&fontColor=E88256&fontAlignY=36&desc=Del%20archivo%20al%20objeto.%20Del%20dise%C3%B1o%20al%20producto.&descAlignY=58&descSize=16" alt="Visuarte Studio" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/visuarte/visuarte.es/main/public/logo/llama-2t.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/visuarte/visuarte.es/main/public/logo/brasa-2t.svg">
+  <img alt="Visuarte Studio" src="https://raw.githubusercontent.com/visuarte/visuarte.es/main/public/logo/llama-2t.svg" height="92">
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=E88256&center=true&vCenter=true&width=620&lines=Dise%C3%B1o+gr%C3%A1fico+y+direcci%C3%B3n+de+arte;Frontend+y+producto+digital;V%C3%ADdeo+y+motion;Del+dise%C3%B1o+bonito+al+dise%C3%B1o+entregable" alt="rol" />
 
